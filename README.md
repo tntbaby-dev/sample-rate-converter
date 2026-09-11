@@ -22,13 +22,14 @@ Install dependencies:
 ```bash
 pip install -r requirements.txt
 
-Usage
+## Usage
 
 Place input WAV files inside the input/ folder and run:
 python converter.py
 Converted files are written to the output directory.
 
-Testing
+## Testing
+
 Run the test suite with:
 python test_src.py
 python test_src_quality.py
