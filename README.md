@@ -22,19 +22,5 @@ Install dependencies:
 ```bash
 pip install -r requirements.txt
 
-## Usage
 
-Place input WAV files inside the input/ folder and run:
-python converter.py
-Converted files are written to the output directory.
-
-## Testing
-
-Run the test suite with:
-python test_src.py
-python test_src_quality.py
-python test_src_sweep.py
-python test_aliasing.py
-
-Project Purpose
-This project is part of an AI-assisted audio engineering and analysis system focused on reliable, distribution-ready audio processing.
+##
