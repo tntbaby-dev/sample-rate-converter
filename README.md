@@ -1,4 +1,3 @@
-Paste this:
 # Sample Rate Converter V1
 
 A Python-based batch audio sample rate converter.
